@@ -17,7 +17,7 @@ C#              █░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-
+<img src = "https://www.codewars.com/users/RedaBELHAJ/badges/small" />
 
 <div align="center">
 
