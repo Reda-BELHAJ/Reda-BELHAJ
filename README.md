@@ -29,5 +29,5 @@ C#              █░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-[<img src="https://now-playing-novatorem-rbyhogj1j.vercel.app/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/wai3dp8hmjyfrdnd1f120zyml?si=v475xCLbQeu5vN7wZwmIhg)
+[<img src="https://now-playing-novatorem-omega.vercel.app/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/wai3dp8hmjyfrdnd1f120zyml?si=v475xCLbQeu5vN7wZwmIhg)
 
