@@ -29,6 +29,4 @@ C#              █░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-<a href="https://reda-belhaj-git-master.reda-belhaj.vercel.app/now-playing?open">
-    <img src="https://reda-belhaj-git-master.reda-belhaj.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[<img src="https://reda-belhaj-git-master.reda-belhaj.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/wai3dp8hmjyfrdnd1f120zyml?si=v475xCLbQeu5vN7wZwmIhg)
