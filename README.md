@@ -29,5 +29,4 @@ C#              █░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-[<img src="https://reda-belhaj.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
-(https://open.spotify.com/user/wai3dp8hmjyfrdnd1f120zyml?si=v475xCLbQeu5vN7wZwmIhg)
+[<img src="https://reda-belhaj.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/wai3dp8hmjyfrdnd1f120zyml?si=v475xCLbQeu5vN7wZwmIhg)
