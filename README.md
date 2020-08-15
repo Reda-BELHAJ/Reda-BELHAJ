@@ -29,6 +29,6 @@ C#              █░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-<a href="https://reda-belhaj-e53dhuvwg.vercel.app/now-playing?open">
-    <img src="https://reda-belhaj-e53dhuvwg.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://reda-belhaj-git-master.reda-belhaj.vercel.app/now-playing?open">
+    <img src="https://reda-belhaj-git-master.reda-belhaj.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
