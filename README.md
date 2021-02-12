@@ -28,6 +28,7 @@ C               █░░░░░░░░░░░░░░░░░░░░�
 <a href="https://open.spotify.com/user/wai3dp8hmjyfrdnd1f120zyml" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 <img src = "https://www.codewars.com/users/RedaBELHAJ/badges/small" />
+<script src="https://tryhackme.com/badge/23047"></script>
 
 </div>
 
