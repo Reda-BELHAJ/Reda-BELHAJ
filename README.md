@@ -6,6 +6,14 @@
 
 <br>
 
+<div align="center">
+
+![Reda-BELHAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-BELHAJ&layout=compact&show_icons=true&theme=onedark)](https://github.com/Reda-BELHAJ)
+
+</div>
+
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
@@ -19,7 +27,6 @@ C               █░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![Reda-BELHAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=onedark)
 
 <div align="center">
 
