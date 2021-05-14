@@ -19,7 +19,7 @@ C               █░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![Reda-BELHAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=merko)
+![Reda-BELHAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=onedark)
 
 <div align="center">
 
