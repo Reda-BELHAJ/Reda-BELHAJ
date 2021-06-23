@@ -2,17 +2,29 @@
   <img src="https://media.tenor.com/images/45bdae15041c9b8dfe4c486a98f560e9/tenor.gif" width = "150%" />
 </div>
 
+
 ## Hello World!
 
 <br>
 
-<div align="center">
+<a href="https://discord.com/users/526892717339443211" target="_blank">
+    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/526892717339443211?bg=161B22&borderRadius=5px">
+</a>
 
-![Reda-BELHAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-BELHAJ&layout=compact&show_icons=true&theme=onedark)](https://github.com/Reda-BELHAJ)
+<a href="https://github.com/Reda-BELHAJ/Reda-BELHAJ" target="_blank">
+    <img width="50%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=onedark">
+</a>
 
-</div>
+<a href="https://github.com/Reda-BELHAJ/Reda-BELHAJ" target="_blank">
+    <img width="50%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reda-BELHAJ&layout=compact&show_icons=true&theme=onedark">
+</a>
+
+BELHAJ Reda: Third year Computer Science Student at the International University of Rabat.
+
+😀 Ever since I was a kid, Computer science has been my passion. I still remember sitting in front of my Desktop loading some "Hello, World!" Tutorials, It was almost magic, being able to get the computers to do whatever I program it to do.
+
+💙 This passion still carries me through my education at the International University of Rabat. There were more resources available to me than I ever could have imagined as a kid, I study new languages, algorithms, compilers, technologies, operating systems, and mathematics.
 
 📊 **This week I spent my time on**
 
