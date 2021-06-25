@@ -11,7 +11,6 @@
     <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/526892717339443211?bg=161B22&borderRadius=5px">
 </a>
 
-
 <a href="https://github.com/Reda-BELHAJ/Reda-BELHAJ" target="_blank">
     <img width="50%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=onedark">
 </a>
