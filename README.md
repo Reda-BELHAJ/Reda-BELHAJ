@@ -26,6 +26,8 @@ BELHAJ Reda: Third year Computer Science Student at the International University
 
 💙 This passion still carries me through my education at the International University of Rabat. There were more resources available to me than I ever could have imagined as a kid, I study new languages, algorithms, compilers, technologies, operating systems, and mathematics.
 
+![](https://komarev.com/ghpvc/?username=Reda-BELHAJ)
+
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
