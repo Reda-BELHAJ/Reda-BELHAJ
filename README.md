@@ -36,7 +36,6 @@ C               █░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-
 <div align="center">
 
 <i>Connect with me:</i><br>
