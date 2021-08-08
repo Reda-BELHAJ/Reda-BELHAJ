@@ -27,8 +27,8 @@ BELHAJ Reda: Fourth year Computer Science Student at the International Universit
 
 <!--START_SECTION:waka-->
 ```text
-Python          ████████████░░░░░░░░░░░░░   40.5 % 
-Java            ███████████░░░░░░░░░░░░░░   36.8 %
+Python          ███████████████░░░░░░░░░░   51.5 % 
+Java            ████████░░░░░░░░░░░░░░░░░   25.8 %
 C++             ████░░░░░░░░░░░░░░░░░░░░░   13.7 % 
 JavaScript      █░░░░░░░░░░░░░░░░░░░░░░░░   3.28 % 
 Php             █░░░░░░░░░░░░░░░░░░░░░░░░   3.00 % 
