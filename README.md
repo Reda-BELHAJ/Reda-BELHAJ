@@ -3,7 +3,6 @@
 </div>
 
 ## 👋 Hello World!
-
 <br>
 
 <a href="https://discord.com/users/526892717339443211" target="_blank">
