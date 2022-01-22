@@ -3,6 +3,7 @@
 </div>
 
 ## 👋 Hello World!
+
 <br>
 
 <a href="https://discord.com/users/526892717339443211" target="_blank">
@@ -19,8 +20,6 @@ BELHAJ Reda: Fourth year Computer Science Student at the International Universit
 
 💙 This passion still carries me through my education at the International University of Rabat. There were more resources available to me than I ever could have imagined as a kid, I study new languages, algorithms, compilers, technologies, operating systems, and mathematics.
 
-![](https://komarev.com/ghpvc/?username=Reda-BELHAJ)
-
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
@@ -36,7 +35,7 @@ C               █░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<i>Connect with me:</i><br>
+<i>Connect with me</i><br>
 
 <a href="https://www.linkedin.com/in/reda-belhaj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/reda0belhaj/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
