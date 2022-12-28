@@ -14,7 +14,7 @@
     <img width="50%" align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Reda-BELHAJ&show_icons=true&theme=onedark">
 </a>
 
-BELHAJ Reda: Fourth year Computer Science Student at the International University of Rabat.
+BELHAJ Reda: Computer Science Student at the International University of Rabat.
 
 😀 Ever since I was a kid, Computer science has been my passion. I still remember sitting in front of my Desktop loading some "Hello, World!" Tutorials, It was almost magic, being able to get the computers to do whatever I program it to do.
 
